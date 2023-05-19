@@ -1,9 +1,6 @@
-cv2
-os
-flask 
-datetime 
+Flask==1.1.4
+opencv-python==4.5.3.56
+scikit-learn==0.24.2
+pandas==1.2.4
+joblib==1.0.1
 
-numpy
-sklearn.neighbors 
-pandas 
-joblib
